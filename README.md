@@ -1,0 +1,1 @@
+This final project focuses on implementing a Proportional-Integral-Derivative (PID) control system to regulate the speed of a cane carrier motor in a sugar factory based on the sugarcane bagasse level in the chute. The goal is to minimize frequent sugarcane pile-ups caused by a mismatch between motor speed and material flow.
