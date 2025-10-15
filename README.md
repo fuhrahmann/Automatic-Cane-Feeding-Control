@@ -1,6 +1,5 @@
 # Automatic Cane Feeding Control
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/fuhrahmann)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/fuhrahmann)
 
 <p align="center"> <img src="assets/CaneCarrier.png" alt="Cane Carrier" width="500"> </p>
 
