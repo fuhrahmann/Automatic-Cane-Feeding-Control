@@ -56,16 +56,15 @@ Wiring Description:
 - Push Button: Connected to the VFD (LI1) for manual start/stop.
 
 ## 📈 Test Results
-PID Control vs. Open Loop Performance
-Parameter	Open Loop	PID Control
-Average Error	-	0.89
-Average PWM	-	142.39
-Overshoot	Full Saturation	25%
-Rise Time	-	37 seconds
-Max Pile-up Duration	95 seconds (from 124s-219s)	13 seconds (out of 219s)
+
+## PID Control vs. Open Loop Performance
+
+| Parameter | Open Loop | PID Control |
+|----------|----------|----------|
+| Average Error | - | 0.89   |
+| Average PWM (8-bit) | - | 142.39 |
+| Overshoot | Full Saturation | 25% |
+| Rise Time | - | 37 seconds |
+| Max Pile-up Duration |	95 seconds (from 124s-219s) | 13 seconds (out of 219s) |
 System Response Comparison Graph
-<<<<<<< HEAD
 <p align="center"> <img src="assets/ResponseGraph.png" alt="System Response Graph" width="600"> </p>
-=======
-<p align="center"> <img src="assets/ResponseGraph.png" alt="System Response Graph" width="600"> </p>
->>>>>>> c477ae8706c2a24fd080ae26caea6b28d933ba22
