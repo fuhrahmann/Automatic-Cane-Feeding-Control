@@ -63,7 +63,7 @@ Wiring Description:
 <p align="center"> <img src="assets/ResponseGraph.png" alt="System Response Graph" width="600"> </p>
 
 | Parameter | Open Loop | PID Control |
-|----------|----------|----------|
+|:--:|:--:|:--:|
 | Average Error | - | 0.89   |
 | Average PWM (8-bit) | - | 142.39 |
 | Overshoot | Full Saturation | 25% |
