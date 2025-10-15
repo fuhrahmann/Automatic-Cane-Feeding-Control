@@ -58,6 +58,7 @@ Wiring Description:
 ## 📈 Test Results
 
 ## PID Control vs. Open Loop Performance
+> These data can be acquired in source/MATLAB/SystemIdentificationData.xlsx
 
 | Parameter | Open Loop | PID Control |
 |----------|----------|----------|
@@ -65,6 +66,7 @@ Wiring Description:
 | Average PWM (8-bit) | - | 142.39 |
 | Overshoot | Full Saturation | 25% |
 | Rise Time | - | 37 seconds |
-| Max Pile-up Duration |	95 seconds (from 124s-219s) | 13 seconds (out of 219s) |
+| Max Pile-up Duration | 95 seconds (from 124s-219s) | 13 seconds (out of 219s) |
+
 System Response Comparison Graph
 <p align="center"> <img src="assets/ResponseGraph.png" alt="System Response Graph" width="600"> </p>
