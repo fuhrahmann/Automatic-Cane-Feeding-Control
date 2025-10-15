@@ -60,7 +60,6 @@ Wiring Description:
 ### PID Control vs. Open Loop Performance
 > These data can be acquired in src/MATLAB/SystemIdentificationData.xlsx
 
-<p align="center"> <img src="assets/ResponseGraph.png" alt="System Response Graph" width="600"> 
 | Parameter | Open Loop | PID Control |
 |:--:|:--:|:--:|
 | Average Error | - | 0.89   |
@@ -68,4 +67,6 @@ Wiring Description:
 | Overshoot | Full Saturation | 25% |
 | Rise Time | - | 37 seconds |
 | Max Pile-up Duration | 95 seconds (from 124s-219s) | 13 seconds (out of 219s) |
-</p>
+
+<p align="center"> <img src="assets/ResponseGraph.png" alt="System Response Graph" width="600"> </p>
+
